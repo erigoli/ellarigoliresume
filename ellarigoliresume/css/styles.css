@@ -219,7 +219,21 @@ mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;
 }
-
+.iceland {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lacrosse {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.friends {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 sub,
 sup {
   position: relative;
