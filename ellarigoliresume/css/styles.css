@@ -219,6 +219,22 @@ mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;
 }
+
+.excel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.python {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cpp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .iceland {
   display: block;
   margin-left: auto;
